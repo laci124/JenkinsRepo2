@@ -1,0 +1,7 @@
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\bin\Debug\Lab1.exe
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\bin\Debug\Lab1.pdb
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\obj\Debug\Lab1.exe
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex1\CSharp\Lab1\obj\Debug\Lab1.pdb

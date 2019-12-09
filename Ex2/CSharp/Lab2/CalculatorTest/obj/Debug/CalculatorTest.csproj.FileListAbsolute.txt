@@ -1,0 +1,2 @@
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache

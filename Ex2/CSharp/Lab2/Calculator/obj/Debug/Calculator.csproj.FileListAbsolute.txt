@@ -1,0 +1,6 @@
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\Calculator\bin\Debug\Calculator.dll
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\Calculator\obj\Debug\Calculator.dll
+C:\Users\EXLRT-0012\Documents\Projects\Jenkins\Ex2\CSharp\Lab2\Calculator\obj\Debug\Calculator.pdb
